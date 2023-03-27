@@ -1,0 +1,28 @@
+html {
+    font-family: sans-serif;
+}
+table {
+    border: 2px solid rgb(200, 200, 200);
+    font-size: 2rem;
+}
+
+td {
+    text-align: center;
+    vertical-align: middle;
+    border: 1px solid rgb(95, 88, 88);
+}
+
+#display {
+    background-color: rgb(223, 238, 167);
+    height: 100px;
+    font-size: 4rem;
+    text-align: right;
+    padding-right: 10px;
+}
+#equals {
+    background-color: rgb(81, 82, 81);
+    height: 100px;
+    font-size: 4rem;
+    text-align: center;
+    padding-right: 10px;
+}
